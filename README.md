@@ -40,7 +40,8 @@ print("Word Count in File = ",count)
 ```
 ### OUTPUT:
 
- ![Uploading command line .png…]()
+![command line ](https://user-images.githubusercontent.com/121418444/214851952-1bffebb0-85d2-4448-942d-f1a52a3908e1.png)
+
 
 
 
