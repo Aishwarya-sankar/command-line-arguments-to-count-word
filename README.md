@@ -40,7 +40,9 @@ print("Word Count in File = ",count)
 ```
 ### OUTPUT:
 
- file:///home/sec/Pictures/Screenshots/command%20line%20.png
+ ![Uploading command line .png…]()
+
+
 
 
 ## RESULT:
