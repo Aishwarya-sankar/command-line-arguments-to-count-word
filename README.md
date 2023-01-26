@@ -39,9 +39,8 @@ with open(sys.argv[1],'r') as f:
 print("Word Count in File = ",count)  
 ```
 ### OUTPUT:
-![](command%20line1.png)
-![](command%20line2.png)
 
+ file:///home/sec/Pictures/Screenshots/command%20line%20.png
 
 
 ## RESULT:
